@@ -21,8 +21,8 @@ Este projeto é uma API desenvolvida com Node.js, TypeScript e MongoDB Atlas, ut
 1. **Clone o Repositório** 📥
 
    ```bash
-   git clone https://github.com/lulmaia/uol-scholarship-challenge-3
-   cd uol-scholarship-challenge-3
+   git clone https://github.com/lulmaia/FujiBack2024.2
+   cd FujiBack2024.2
    ```
 
 2. **Instale as Dependências** 📦
