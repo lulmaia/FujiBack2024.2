@@ -1,4 +1,5 @@
 # Projeto Node.js com TypeScript e MongoDB 🚀
+#Aluno: Luís Gustavo Maia Cavalcanti Santos
 
 Este projeto é uma API desenvolvida com Node.js, TypeScript e MongoDB Atlas, utilizando Express para gerenciamento de rotas e autenticação com JWT. O projeto inclui um CRUD para Usuários e Eventos, e a autenticação de tokens JWT.
 
